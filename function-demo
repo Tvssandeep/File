@@ -31,6 +31,6 @@ node{
        message: message, 
        teamDomain: 'javahomecloud',
        tokenCredentialId: 'slack-demo'
-   }
+  }
 
 }
